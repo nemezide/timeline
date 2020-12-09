@@ -1,0 +1,25 @@
+#timeline { background:rgba(255, 255, 255, 0.6) !important; position:relative; top:15px; height:620px; width:100%;}
+#timeline .tl-storyslider { background:transparent; }
+#timeline .tl-slider-background { background:transparent !important; }
+#timeline .tl-slider-container-mask { background:transparent; }
+#timeline .tl-attribution { display:none; }
+#timeline .tl-slidenav-next { margin-right:30px; }
+#timeline .tl-slidenav-previous { margin-left:30px; }
+#timeline .tl-timeaxis-major .tl-timeaxis-tick { font-weight:bold; }
+#timeline .tl-timeaxis-minor .tl-timeaxis-tick { color:#6188aa; }
+#timeline .tl-headline-date { font-size:140%; color:#464951; margin-bottom:0.7em; }
+#timeline .tl-timenav { background-color:#fff; border-top:0; }
+#timeline .tl-timemarker-media-container .tl-icon-image { font-size:10px; display:none; }
+#timeline .xtl-timemarker-content-container { background-color:#f0f0f0; }
+#timeline .tl-timemarker-text h2, #timeline .tl-timemarker-text p { color:#555; font-size:0.7em; }
+#timeline .tl-timemarker-active .tl-timemarker-text h2, #timeline .tl-timemarker-active .tl-timemarker-text p { color:#464951; font-weight:bold !important; }
+#timeline .xtl-timemarker-content-container:hover { background-color:#999; }
+#timeline .xtl-timemarker-content-container:hover .tl-timemarker-text h2 { color:#fff; }
+#timeline .tl-text p { color:#444; font-style:italic; font-size:1.2em; }
+#timeline .tl-text-content-container { border-radius:8px; background:rgba(255, 255, 255, 0.2); padding:1.5em 2em; }
+#timeline .tl-headline-fadeout::after { height:20%; }
+#timeline .tl-slide-content { padding-right:30px !important; }
+#timeline .tl-timeaxis { font-family:arial, sans-serif; }
+#timeline .tl-headline { font-size:1.8em; }
+#timeline .tl-text-content-container .tl-headline {display:none}
+#timeline .tl-menubar .tl-menubar-button { background-color:rgba(110, 110, 110, 0.7); color:#ddd; }
